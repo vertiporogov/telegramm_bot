@@ -1,0 +1,49 @@
+[
+  {
+    "currency": "USD",
+    "rate": null,
+    "timestamp": "2023-06-25 10:10:07"
+  },
+  {
+    "currency": "USD",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 10:14:20"
+  },
+  {
+    "currency": "EUR",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 10:15:26"
+  },
+  {
+    "currency": "EUR",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 10:17:09"
+  },
+  {
+    "currency": "USD",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 11:46:03"
+  },
+  {
+    "currency": "USD",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 12:47:09"
+  },
+  {
+    "currency": "EUR",
+    "rate": {
+      "message": "You cannot consume this service"
+    },
+    "timestamp": "2023-06-25 13:36:13"
+  }
+]
